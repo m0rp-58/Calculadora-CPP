@@ -1,11 +1,10 @@
 #include <iostream>
-#include <stdlib.h>
 
 using namespace std;
 
 int main () {
     bool loop = true;
-    while (loop == true) {
+    while ( loop == true ) {
 
         int numero1;
         int numero2;
